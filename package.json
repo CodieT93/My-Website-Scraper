@@ -1,0 +1,19 @@
+{
+  "name": "mywebscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "website-scraper": "^6.0.0",
+    "website-scraper-puppeteer": "^2.0.0",
+    "yargs": "^18.0.0"
+  }
+}
